@@ -1,6 +1,5 @@
 # tiktok-api-x-gorgon
 
-
 ## tiktok API
 
 1. login to the user by email and username
@@ -25,10 +24,6 @@
 20. create account
 21. resolve captcha
 
-
-### contact me
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @Neo_Galaxy
 
 ### contact me
 ## Contact Telegram @Neo_Galaxy
