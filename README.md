@@ -23,7 +23,6 @@
 20. create account
 21. resolve captcha
 
-
 ### contact me
 ## Contact Telegram @Neo_Galaxy
 https://t.me/Neo_Galaxy
