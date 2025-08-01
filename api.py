@@ -1,7 +1,5 @@
 
-### contact me
-## Contact Telegram @Neo_Galaxy
-https://t.me/Neo_Galaxy
+
 
 from time import time #line:3
 from hashlib import md5 #line:4
